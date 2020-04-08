@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SandyMassCarried>當前負重</SandyMassCarried>
+  <SandyMassValue> {0} / {1} 公斤</SandyMassValue>
+
+  <Corgi_KeepOldApparel>並保留舊裝備</Corgi_KeepOldApparel>
+  <Corgi_RPGStyleInventoryRemake>RPG Style Inventory Remake</Corgi_RPGStyleInventoryRemake>
+  <Corgi_ToggleGearTab>開啟裝備欄</Corgi_ToggleGearTab>
+
+   <!-- Inventory Window -->
+    <AwesomeInventory_Belt>腰帶</AwesomeInventory_Belt>
+    <AwesomeInventory_ExtraApparels>額外裝備</AwesomeInventory_ExtraApparels>
+    <AwesomeInventory_GreedyTab>貪心 (列表)</AwesomeInventory_GreedyTab>
+    <AwesomeInventory_Head>頭部</AwesomeInventory_Head>
+    <AwesomeInventory_JealousTab>嫉妒 (RPG Style)</AwesomeInventory_JealousTab>
+    <AwesomeInventory_MassCarried>Mass carried</AwesomeInventory_MassCarried>
+    <AwesomeInventory_Pants>腿部貼身層</AwesomeInventory_Pants>
+    <AwesomeInventory_PrimaryWeapon>主要武器</AwesomeInventory_PrimaryWeapon>
+    <AwesomeInventory_TorsoMiddle>軀幹中層</AwesomeInventory_TorsoMiddle>
+    <AwesomeInventory_TorsoOnSkin>軀幹貼身層</AwesomeInventory_TorsoOnSkin>
+    <AwesomeInventory_TorsoShell>軀幹外層</AwesomeInventory_TorsoShell>
+    <AwesomeInventory_UnloadNow>馬上卸貨</AwesomeInventory_UnloadNow>
+
+    <!-- Loadout Window -->
+    <AwesomeInventory_Assorted>分類 {0}</AwesomeInventory_Assorted>
+    <AwesomeInventory_DisplayName>Awesome Inventory</AwesomeInventory_DisplayName>
+    <AwesomeInventory_Blacklist>黑名單</AwesomeInventory_Blacklist>
+    <AwesomeInventory_CantUnloadIncapableManipulation>目前無法控制殖民者卸貨</AwesomeInventory_CantUnloadIncapableManipulation>
+    <AwesomeInventory_ChooseMaterialAndQuality>選擇材料跟品質</AwesomeInventory_ChooseMaterialAndQuality>
+    <AwesomeInventory_CopyLoadout>複製裝備組合</AwesomeInventory_CopyLoadout>
+    <AwesomeInventory_CountFieldTip>物品的數量</AwesomeInventory_CountFieldTip>
+    <AwesomeInventory_Customize>自定</AwesomeInventory_Customize>
+    <AwesomeInventory_DeleteLoadout>刪除裝備組合</AwesomeInventory_DeleteLoadout>
+    <AwesomeInventory_DragToReorder>拖動已重新排列</AwesomeInventory_DragToReorder>
+    <AwesomeInventory_MouseOverNumbersForDetails>移動鼠標到數字已查看細節</AwesomeInventory_MouseOverNumbersForDetails>
+    <AwesomeInventory_NewLoadout>新裝備組合</AwesomeInventory_NewLoadout>
+    <AwesomeInventory_NoLoadout>沒有裝備組合</AwesomeInventory_NoLoadout>
+    <AwesomeInventory_NoLoadoutSelected>沒有選擇的裝備組合</AwesomeInventory_NoLoadoutSelected>
+    <AwesomeInventory_NoMaterial>沒有可用的材料</AwesomeInventory_NoMaterial>
+    <AwesomeInventory_OpenLoadout>打開裝備組合</AwesomeInventory_OpenLoadout>
+    <AwesomeInventory_PreviewQuality>預覽品質: </AwesomeInventory_PreviewQuality>
+    <AwesomeInventory_SelectLoadout>選擇裝備組合</AwesomeInventory_SelectLoadout>
+    <AwesomeInventory_SourceAllTip>所有物品</AwesomeInventory_SourceAllTip>
+    <AwesomeInventory_SourceApparelTip>衣物</AwesomeInventory_SourceApparelTip>
+    <AwesomeInventory_SourceFilterTip>過濾器</AwesomeInventory_SourceFilterTip>
+    <AwesomeInventory_SourceGenericTip>各類物品</AwesomeInventory_SourceGenericTip>
+    <AwesomeInventory_SourceMeleeTip>近戰武器</AwesomeInventory_SourceMeleeTip>
+    <AwesomeInventory_SourceMinifiedTip>卸除的物品</AwesomeInventory_SourceMinifiedTip>
+    <AwesomeInventory_SourceRangedTip>遠距離武器</AwesomeInventory_SourceRangedTip>
+    <AwesomeInventory_Separate>分離</AwesomeInventory_Separate>
+    <AwesomeInventory_SelectorStuff>選擇的材料</AwesomeInventory_SelectorStuff>
+    <AwesomeInventory_StuffSource>材料來源</AwesomeInventory_StuffSource>
+    <AwesomeInventory_Weight>重量</AwesomeInventory_Weight>
+    <AwesomeInventory_Wishlist>願望清單</AwesomeInventory_Wishlist>
+
+    <AwesomeInventory_LoadoutName>{0}的裝備組合</AwesomeInventory_LoadoutName>
+    <Corgi_EmptyLoadoutName>沒有</Corgi_EmptyLoadoutName>
+    <Corgi_ManageLoadouts>管理裝備組合</Corgi_ManageLoadouts>
+    <Corgi_ForcedHold>Forced holding</Corgi_ForcedHold>
+    <Corgi_TryToDeleteLastLoadout>不能刪除最後一個裝備組合</Corgi_TryToDeleteLastLoadout>
+  
+    <!-- Labels -->
+    <AwesomeInventory_GenericMeal_Label>各類餐點</AwesomeInventory_GenericMeal_Label>
+    <AwesomeInventory_AIGenericRawFood_Label>各類生食</AwesomeInventory_AIGenericRawFood_Label>
+    <AwesomeInventory_AIGenericDrugs_Label>各類藥物</AwesomeInventory_AIGenericDrugs_Label>
+    <AwesomeInventory_AIGenericMedicine_Label>各類藥品</AwesomeInventory_AIGenericMedicine_Label>
+
+    <!-- Descriptions -->
+    <AwesomeInventory_AIGenericMeal_Description>
+        Placeholder for any perishable meals. Intended for compatibility with pawns automatically picking up a meal for themself. It has the same mass as a fine meal.
+    </AwesomeInventory_AIGenericMeal_Description>
+    <AwesomeInventory_AIGenericRawFood_Description>
+        Placeholder for any raw food.  Intended for compatibility with pawns automatically picking up raw food to train animals.
+    </AwesomeInventory_AIGenericRawFood_Description>
+    <AwesomeInventory_AIGenericDrugs_Description>
+        Placeholder for any drugs. It includes medical drugs and has the same mass as Flake.
+    </AwesomeInventory_AIGenericDrugs_Description>
+    <AwesomeInventory_AIGenericMedicine_Description>
+        Placeholder for any medicine. Most commonly used by doctors.
+    </AwesomeInventory_AIGenericMedicine_Description>
+    
+    <!-- Mod settings -->
+    <AwesomeInventory_AutoEquipWeapon>自動裝備武器</AwesomeInventory_AutoEquipWeapon>
+    <AwesomeInventory_UseGearTabToggle>啟用裝備欄按鈕</AwesomeInventory_UseGearTabToggle>
+    <AwesomeInventory_UseLoadout>啟用裝備組合</AwesomeInventory_UseLoadout>
+
+    <!-- Option texts on context menu -->
+    <AwesomeInventory_Default>AwesomeInventory</AwesomeInventory_Default>
+    <AwesomeInventory_Equip>裝備 {0} 並保留退役的</AwesomeInventory_Equip>
+    <AwesomeInventory_ForceWear>強制穿上 {0} 並保留原本的</AwesomeInventory_ForceWear>
+    <AwesomeInventory_Pickup>撿起 {0}</AwesomeInventory_Pickup>
+    <AwesomeInventory_PutAway>脫下 {0}</AwesomeInventory_PutAway>
+    <AwesomeInventory_Wear>穿上 {0} 並保留原本的</AwesomeInventory_Wear>
+    <AwesomeInventory_VanillaWear>穿上 {0}</AwesomeInventory_VanillaWear>
+
+    <!-- Tooltips -->
+    <AwesomeInventory_Ascetic>苦行主義</AwesomeInventory_Ascetic>
+    <AwesomeInventory_AutoEquipWeaponTooltip>允許本mod自動裝備沒有武器的小人</AwesomeInventory_AutoEquipWeaponTooltip>
+    <AwesomeInventory_BlacklistTooltip>小人不會拿黑名單裡的東西。黑名單不會影響不符合願望清單的東西</AwesomeInventory_BlacklistTooltip>
+    <AwesomeInventory_CurrentTemperature>目前溫度</AwesomeInventory_CurrentTemperature>
+    <AwesomeInventory_PreviewQuality_Tooltip>選擇預覽物品的品質</AwesomeInventory_PreviewQuality_Tooltip>
+    <AwesomeInventory_Separate_Tooltip>單獨為每個選擇的物品設定品質和耐久度</AwesomeInventory_Separate_Tooltip>
+    <AwesomeInventory_UseGearTabToggleTooltip>裝備欄按鈕允許你為開啟裝備欄設定熱鍵</AwesomeInventory_UseGearTabToggleTooltip>
+    <AwesomeInventory_UseLoadoutTooltip>使用本mod提供的裝備組合</AwesomeInventory_UseLoadoutTooltip>
+    <AwesomeInventory_WishlistTooltip>小人會不斷尋找願望清單裡的物品</AwesomeInventory_WishlistTooltip>
+
+    <!-- Messages -->
+    <AwesomeInventory_FailToDrop>{0} 沒有丟下 {1}</AwesomeInventory_FailToDrop>
+
+</LanguageData>
