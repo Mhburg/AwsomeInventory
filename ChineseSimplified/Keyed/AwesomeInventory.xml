@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <!-- Inventory Window -->
+    <AwesomeInventory_Belt>腰带</AwesomeInventory_Belt>
+    <AwesomeInventory_ExtraApparels>额外装备</AwesomeInventory_ExtraApparels>
+    <AwesomeInventory_GreedyTab>贪心 (列表)</AwesomeInventory_GreedyTab>
+    <AwesomeInventory_Head>头部</AwesomeInventory_Head>
+    <AwesomeInventory_JealousTab>嫉妒 (RPG 风格)</AwesomeInventory_JealousTab>
+    <AwesomeInventory_MassCarried>持有的重量</AwesomeInventory_MassCarried>
+    <AwesomeInventory_Pants>腿部贴身层</AwesomeInventory_Pants>
+    <AwesomeInventory_PrimaryWeapon>主要武器</AwesomeInventory_PrimaryWeapon>
+    <AwesomeInventory_TorsoMiddle>躯干中层</AwesomeInventory_TorsoMiddle>
+    <AwesomeInventory_TorsoOnSkin>躯干贴身层</AwesomeInventory_TorsoOnSkin>
+    <AwesomeInventory_TorsoShell>躯干外层</AwesomeInventory_TorsoShell>
+    <AwesomeInventory_UnloadNow>马上卸货</AwesomeInventory_UnloadNow>
+
+    <!-- Loadout Window -->
+    <AwesomeInventory_Assorted>分类 {0}</AwesomeInventory_Assorted>
+    <AwesomeInventory_DisplayName>Awesome Inventory</AwesomeInventory_DisplayName>
+    <AwesomeInventory_Blacklist>黑名单</AwesomeInventory_Blacklist>
+    <AwesomeInventory_CantUnloadIncapableManipulation>目前无法控制殖民者卸货</AwesomeInventory_CantUnloadIncapableManipulation>
+    <AwesomeInventory_ChooseMaterialAndQuality>选择材料跟品质</AwesomeInventory_ChooseMaterialAndQuality>
+    <AwesomeInventory_CopyLoadout>复制装备组合</AwesomeInventory_CopyLoadout>
+    <AwesomeInventory_CountFieldTip>物品的数量</AwesomeInventory_CountFieldTip>
+    <AwesomeInventory_Customize>自定</AwesomeInventory_Customize>
+    <AwesomeInventory_DeleteLoadout>删除装备组合</AwesomeInventory_DeleteLoadout>
+    <AwesomeInventory_DragToReorder>拖动以重新排列</AwesomeInventory_DragToReorder>
+    <AwesomeInventory_LoadoutName>{0}的装备组合</AwesomeInventory_LoadoutName>
+    <AwesomeInventory_MouseOverNumbersForDetails>移动鼠标到数值以查看细节</AwesomeInventory_MouseOverNumbersForDetails>
+    <AwesomeInventory_NewLoadout>新装备组合</AwesomeInventory_NewLoadout>
+    <AwesomeInventory_NoLoadout>没有装备组合</AwesomeInventory_NoLoadout>
+    <AwesomeInventory_NoLoadoutSelected>没有选择的装备组合</AwesomeInventory_NoLoadoutSelected>
+    <AwesomeInventory_NoMaterial>没有可用的材料</AwesomeInventory_NoMaterial>
+    <AwesomeInventory_OpenLoadout>打开装备组合</AwesomeInventory_OpenLoadout>
+    <AwesomeInventory_PreviewQuality>预览品质: </AwesomeInventory_PreviewQuality>
+    <AwesomeInventory_SelectLoadout>选择装备组合</AwesomeInventory_SelectLoadout>
+    <AwesomeInventory_SourceAllTip>所有物品</AwesomeInventory_SourceAllTip>
+    <AwesomeInventory_SourceApparelTip>衣物</AwesomeInventory_SourceApparelTip>
+    <AwesomeInventory_SourceFilterTip>过滤器</AwesomeInventory_SourceFilterTip>
+    <AwesomeInventory_SourceGenericTip>各类物品</AwesomeInventory_SourceGenericTip>
+    <AwesomeInventory_SourceMeleeTip>近战武器</AwesomeInventory_SourceMeleeTip>
+    <AwesomeInventory_SourceMinifiedTip>卸除的物品</AwesomeInventory_SourceMinifiedTip>
+    <AwesomeInventory_SourceRangedTip>远距离武器</AwesomeInventory_SourceRangedTip>
+    <AwesomeInventory_Separate>分离</AwesomeInventory_Separate>
+    <AwesomeInventory_SelectorStuff>选择的材料</AwesomeInventory_SelectorStuff>
+    <AwesomeInventory_StuffSource>材料来源</AwesomeInventory_StuffSource>
+    <AwesomeInventory_TryToDeleteLastLoadout>不能删除最后一个装备组合</AwesomeInventory_TryToDeleteLastLoadout>
+    <AwesomeInventory_Weight>重量</AwesomeInventory_Weight>
+    <AwesomeInventory_Wishlist>愿望清单</AwesomeInventory_Wishlist>
+
+    <!-- Labels -->
+    <AwesomeInventory_GenericMeal_Label>各类餐点</AwesomeInventory_GenericMeal_Label>
+    <AwesomeInventory_AIGenericRawFood_Label>各类生食</AwesomeInventory_AIGenericRawFood_Label>
+    <AwesomeInventory_AIGenericDrugs_Label>各类药物</AwesomeInventory_AIGenericDrugs_Label>
+    <AwesomeInventory_AIGenericMedicine_Label>各类药品</AwesomeInventory_AIGenericMedicine_Label>
+
+    <!-- Descriptions -->
+    <AwesomeInventory_AIGenericMeal_Description>代表会腐烂的餐点。为了兼容小人自动捡起的餐点而设，重量与精致餐点相同。
+    </AwesomeInventory_AIGenericMeal_Description>
+    <AwesomeInventory_AIGenericRawFood_Description>代表生食。为了兼容小人为训练动物所自动捡起的生食而设。
+    </AwesomeInventory_AIGenericRawFood_Description>
+    <AwesomeInventory_AIGenericDrugs_Description>代表所有药物。包含医疗药物，重量与薄片相同。
+    </AwesomeInventory_AIGenericDrugs_Description>
+    <AwesomeInventory_AIGenericMedicine_Description>代表所有药品。医生治疗所使用的药品。
+    </AwesomeInventory_AIGenericMedicine_Description>
+    
+    <!-- Mod settings -->
+    <AwesomeInventory_AutoEquipWeapon>自动装备武器</AwesomeInventory_AutoEquipWeapon>
+    <AwesomeInventory_UseGearTabToggle>启用装备栏按钮</AwesomeInventory_UseGearTabToggle>
+    <AwesomeInventory_UseLoadout>启用装备组合</AwesomeInventory_UseLoadout>
+    <AwesomeInventory_ToggleGearTab>装备栏</AwesomeInventory_ToggleGearTab>
+
+    <!-- Option texts on context menu -->
+    <AwesomeInventory_Default>默认</AwesomeInventory_Default>
+    <AwesomeInventory_Equip>装备 {0} 并保留退役的</AwesomeInventory_Equip>
+    <AwesomeInventory_ForceWear>强制穿上 {0} 并保留原本的</AwesomeInventory_ForceWear>
+    <AwesomeInventory_Pickup>捡起 {0}</AwesomeInventory_Pickup>
+    <AwesomeInventory_PutAway>脱下 {0}</AwesomeInventory_PutAway>
+    <AwesomeInventory_Wear>穿上 {0} 并保留原本的</AwesomeInventory_Wear>
+    <AwesomeInventory_VanillaWear>穿上 {0}</AwesomeInventory_VanillaWear>
+
+    <!-- Tooltips -->
+    <AwesomeInventory_Ascetic>苦行主义</AwesomeInventory_Ascetic>
+    <AwesomeInventory_AutoEquipWeaponTooltip>允许本mod自动装备没有武器的小人</AwesomeInventory_AutoEquipWeaponTooltip>
+    <AwesomeInventory_BlacklistTooltip>小人不会拿黑名单里的东西。黑名单不会影响不符合愿望清单的东西</AwesomeInventory_BlacklistTooltip>
+    <AwesomeInventory_CurrentTemperature>目前温度</AwesomeInventory_CurrentTemperature>
+    <AwesomeInventory_PreviewQuality_Tooltip>选择预览物品的品质</AwesomeInventory_PreviewQuality_Tooltip>
+    <AwesomeInventory_Separate_Tooltip>单独为每个选择的物品设定品质和耐久度</AwesomeInventory_Separate_Tooltip>
+    <AwesomeInventory_UseGearTabToggleTooltip>装备栏按钮允许你为开启装备栏设定热键</AwesomeInventory_UseGearTabToggleTooltip>
+    <AwesomeInventory_UseLoadoutTooltip>使用本mod提供的装备组合</AwesomeInventory_UseLoadoutTooltip>
+    <AwesomeInventory_WishlistTooltip>小人会不断寻找愿望清单里的物品</AwesomeInventory_WishlistTooltip>
+
+    <!-- Messages -->
+    <AwesomeInventory_FailToDrop>{0} 没有丢下 {1}</AwesomeInventory_FailToDrop>
+
+</LanguageData>
