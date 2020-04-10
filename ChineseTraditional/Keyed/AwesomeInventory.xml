@@ -56,14 +56,10 @@
     <AwesomeInventory_AIGenericMedicine_Label>各類藥品</AwesomeInventory_AIGenericMedicine_Label>
 
     <!-- Descriptions -->
-    <AwesomeInventory_AIGenericMeal_Description>代表會腐爛的餐點。為了兼容小人自動撿起的餐點而設，重量與精緻餐點相同。
-    </AwesomeInventory_AIGenericMeal_Description>
-    <AwesomeInventory_AIGenericRawFood_Description>代表生食。為了兼容小人為訓練動物所自動撿起的生食而設。
-    </AwesomeInventory_AIGenericRawFood_Description>
-    <AwesomeInventory_AIGenericDrugs_Description>代表所有藥物。包含醫療藥物，重量與薄片相同。
-    </AwesomeInventory_AIGenericDrugs_Description>
-    <AwesomeInventory_AIGenericMedicine_Description>代表所有藥品。醫生治療所使用的藥品。
-    </AwesomeInventory_AIGenericMedicine_Description>
+    <AwesomeInventory_AIGenericMeal_Description>代表會腐爛的餐點。為了兼容小人自動撿起的餐點而設，重量與精緻餐點相同</AwesomeInventory_AIGenericMeal_Description>
+    <AwesomeInventory_AIGenericRawFood_Description>代表生食。為了兼容小人為訓練動物所自動撿起的生食而設</AwesomeInventory_AIGenericRawFood_Description>
+    <AwesomeInventory_AIGenericDrugs_Description>代表所有藥物。包含醫療藥物，重量與薄片相同</AwesomeInventory_AIGenericDrugs_Description>
+    <AwesomeInventory_AIGenericMedicine_Description>代表所有藥品。醫生治療所使用的藥品</AwesomeInventory_AIGenericMedicine_Description>
     
     <!-- Mod settings -->
     <AwesomeInventory_AutoEquipWeapon>自動裝備武器</AwesomeInventory_AutoEquipWeapon>
