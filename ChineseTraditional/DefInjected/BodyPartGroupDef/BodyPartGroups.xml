@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ears.label>耳朵</Ears.label>
+  <LeftArm.label>左臂</LeftArm.label>
+  <RightArm.label>右臂</RightArm.label>
+  <LeftShoulder.label>左肩</LeftShoulder.label>
+  <RightShoulder.label>右肩</RightShoulder.label>
+  <None.label>屁股</None.label>
+
+
+  <!-- Patch CE -->
+
+  <Neck.label>脖子</Neck.label>
+  <Head.label>頭</Head.label>
+
+
+</LanguageData>
