@@ -25,6 +25,8 @@
   <AwesomeInventory_Customize>自定義</AwesomeInventory_Customize>
   <AwesomeInventory_DeleteLoadout>刪除裝備組合</AwesomeInventory_DeleteLoadout>
   <AwesomeInventory_DragToReorder>拖動以重新排列</AwesomeInventory_DragToReorder>
+  <AwesomeInventory_GlobalApparelSetting>通用裝備設置</AwesomeInventory_GlobalApparelSetting>
+  <AwesomeInventory_GlobalOutfitSettingWarning>請注意：此處的設置優先於“加載”窗口中的服裝設置(武器和其他物品不受影響).</AwesomeInventory_GlobalOutfitSettingWarning>
   <AwesomeInventory_LoadoutName>{0}的裝備組合</AwesomeInventory_LoadoutName>
   <AwesomeInventory_MouseOverNumbersForDetails>移動鼠標到數值上以查看細節</AwesomeInventory_MouseOverNumbersForDetails>
   <AwesomeInventory_NewLoadout>新裝備組合</AwesomeInventory_NewLoadout>
@@ -65,29 +67,31 @@
   <AwesomeInventory_UseGearTabToggle>啓用裝備欄按鈕</AwesomeInventory_UseGearTabToggle>
   <AwesomeInventory_UseLoadout>啓用裝備組合</AwesomeInventory_UseLoadout>
   <AwesomeInventory_ToggleGearTab>裝備欄</AwesomeInventory_ToggleGearTab>
+  <AwesomeInventory_PatchAllRaces>修補所有種族</AwesomeInventory_PatchAllRaces>
 
   <!-- Option texts on context menu -->
   <AwesomeInventory_Default>默認</AwesomeInventory_Default>
-  <AwesomeInventory_Equip>裝備 {0} 並保留原本的</AwesomeInventory_Equip>
-  <AwesomeInventory_ForceWear>強制穿上 {0} 並保留原本的</AwesomeInventory_ForceWear>
-  <AwesomeInventory_Pickup>撿起 {0}</AwesomeInventory_Pickup>
-  <AwesomeInventory_PutAway>脫下 {0}</AwesomeInventory_PutAway>
-  <AwesomeInventory_Wear>穿上 {0} 並保留原本的</AwesomeInventory_Wear>
+  <AwesomeInventory_Equip>裝備{0}並保留原本的</AwesomeInventory_Equip>
+  <AwesomeInventory_ForceWear>強制穿上{0}並保留原本的</AwesomeInventory_ForceWear>
+  <AwesomeInventory_Pickup>撿起{0}</AwesomeInventory_Pickup>
+  <AwesomeInventory_PutAway>脫下{0}</AwesomeInventory_PutAway>
+  <AwesomeInventory_Wear>穿上{0}並保留原本的</AwesomeInventory_Wear>
   <AwesomeInventory_VanillaWear>穿上 {0}</AwesomeInventory_VanillaWear>
 
   <!-- Tooltips -->
-    <AwesomeInventory_Ascetic>苦行主義</AwesomeInventory_Ascetic>
-    <AwesomeInventory_AutoEquipWeaponTooltip>允許本mod自動裝備沒有武器的殖民者</AwesomeInventory_AutoEquipWeaponTooltip>
-    <AwesomeInventory_BlacklistTooltip>殖民者不會拿黑名單裡的東西。黑名單不會影響不符合願望清單的東西</AwesomeInventory_BlacklistTooltip>
-    <AwesomeInventory_CurrentTemperature>目前溫度</AwesomeInventory_CurrentTemperature>
-    <AwesomeInventory_PreviewQuality_Tooltip>選擇預覽物品的品質</AwesomeInventory_PreviewQuality_Tooltip>
-    <AwesomeInventory_Separate_Tooltip>單獨為每個選擇的物品設定品質和耐久度</AwesomeInventory_Separate_Tooltip>
-    <AwesomeInventory_UseGearTabToggleTooltip>裝備欄按鈕允許你為開啓裝備欄設定熱鍵</AwesomeInventory_UseGearTabToggleTooltip>
-    <AwesomeInventory_UseLoadoutTooltip>使用本mod提供的裝備組合</AwesomeInventory_UseLoadoutTooltip>
-    <AwesomeInventory_WishlistTooltip>殖民者會不斷尋找願望清單裡的物品</AwesomeInventory_WishlistTooltip>
+  <AwesomeInventory_Ascetic>苦行主義</AwesomeInventory_Ascetic>
+  <AwesomeInventory_AutoEquipWeaponTooltip>允許本mod自動裝備沒有武器的殖民者</AwesomeInventory_AutoEquipWeaponTooltip>
+  <AwesomeInventory_BlacklistTooltip>殖民者不會拿黑名單裡的東西。黑名單不會影響不符合願望清單的東西</AwesomeInventory_BlacklistTooltip>
+  <AwesomeInventory_CurrentTemperature>目前溫度</AwesomeInventory_CurrentTemperature>
+  <AwesomeInventory_PatchAllRacesTooltip>修補所有種族以使用Awesome Inventory的裝備標籤。</AwesomeInventory_PatchAllRacesTooltip>
+  <AwesomeInventory_PreviewQuality_Tooltip>選擇預覽物品的品質</AwesomeInventory_PreviewQuality_Tooltip>
+  <AwesomeInventory_Separate_Tooltip>單獨為每個選擇的物品設定品質和耐久度</AwesomeInventory_Separate_Tooltip>
+  <AwesomeInventory_UseGearTabToggleTooltip>裝備欄按鈕允許你為開啓裝備欄設定熱鍵</AwesomeInventory_UseGearTabToggleTooltip>
+  <AwesomeInventory_UseLoadoutTooltip>使用本mod提供的裝備組合</AwesomeInventory_UseLoadoutTooltip>
+  <AwesomeInventory_WishlistTooltip>殖民者會不斷尋找願望清單裡的物品</AwesomeInventory_WishlistTooltip>
 
   <!-- Messages -->
-  <AwesomeInventory_FailToDrop>{0} 沒有丟下 {1}</AwesomeInventory_FailToDrop>
+  <AwesomeInventory_FailToDrop>{0}沒有丟下{1}</AwesomeInventory_FailToDrop>
 
 
 </LanguageData>
