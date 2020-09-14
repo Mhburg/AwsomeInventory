@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-   <!-- Inventory Window -->
+    <!-- Inventory Window -->
     <AwesomeInventory_Belt>腰带</AwesomeInventory_Belt>
+    <AwesomeInventory_ChooseLoadout>选择一套物品组合</AwesomeInventory_ChooseLoadout>
     <AwesomeInventory_ExtraApparels>额外装备</AwesomeInventory_ExtraApparels>
     <AwesomeInventory_GreedyTab>贪心 (列表)</AwesomeInventory_GreedyTab>
     <AwesomeInventory_Head>头部</AwesomeInventory_Head>
     <AwesomeInventory_JealousTab>嫉妒 (RPG 风格)</AwesomeInventory_JealousTab>
+    <AwesomeInventory_MakeEmptyLoadout>为{0}制作一个空的物品组合</AwesomeInventory_MakeEmptyLoadout>
+    <AwesomeInventory_MakeNewLoadout>为{0}制作一个新的物品组合</AwesomeInventory_MakeNewLoadout>
     <AwesomeInventory_MassCarried>持有的重量</AwesomeInventory_MassCarried>
     <AwesomeInventory_Pants>腿部贴身层</AwesomeInventory_Pants>
     <AwesomeInventory_PrimaryWeapon>主要武器</AwesomeInventory_PrimaryWeapon>
@@ -16,78 +18,162 @@
     <AwesomeInventory_UnloadNow>马上卸货</AwesomeInventory_UnloadNow>
 
     <!-- Loadout Window -->
+    <AwesomeInventory_AddToAllLoadout>添加到所有物品组合中</AwesomeInventory_AddToAllLoadout>
     <AwesomeInventory_Assorted>分类 {0}</AwesomeInventory_Assorted>
     <AwesomeInventory_DisplayName>Awesome Inventory</AwesomeInventory_DisplayName>
     <AwesomeInventory_Blacklist>黑名单</AwesomeInventory_Blacklist>
     <AwesomeInventory_CantUnloadIncapableManipulation>目前无法控制殖民者卸货</AwesomeInventory_CantUnloadIncapableManipulation>
+    <AwesomeInventory_CantUnloadIncapableManipulation>因不能操控，无法令殖民者卸货</AwesomeInventory_CantUnloadIncapableManipulation>
     <AwesomeInventory_ChooseMaterialAndQuality>选择材料跟品质</AwesomeInventory_ChooseMaterialAndQuality>
-    <AwesomeInventory_CopyLoadout>复制装备组合</AwesomeInventory_CopyLoadout>
+    <AwesomeInventory_CopyLoadout>复制物品组合</AwesomeInventory_CopyLoadout>
+    <AwesomeInventory_CostumeSettings>Costume settings</AwesomeInventory_CostumeSettings>
     <AwesomeInventory_CountFieldTip>物品的数量</AwesomeInventory_CountFieldTip>
     <AwesomeInventory_Customize>自定</AwesomeInventory_Customize>
-    <AwesomeInventory_DeleteLoadout>删除装备组合</AwesomeInventory_DeleteLoadout>
+    <AwesomeInventory_DeleteLoadout>删除物品组合</AwesomeInventory_DeleteLoadout>
+    <AwesomeInventory_DontUseCostume>不使用服装组合</AwesomeInventory_DontUseCostume>
     <AwesomeInventory_DragToReorder>拖动以重新排列</AwesomeInventory_DragToReorder>
-    <AwesomeInventory_LoadoutName>{0}的装备组合</AwesomeInventory_LoadoutName>
+    <AwesomeInventory_EmptyLoadout>清空物品组合</AwesomeInventory_EmptyLoadout>
+    <AwesomeInventory_GlobalApparelSetting>物品组合总体设置</AwesomeInventory_GlobalApparelSetting>
+    <AwesomeInventory_GlobalOutfitSettingWarning>请注意：此处的设置优先于“物品组合”窗口中的服装设置（武器和其他物品不受影响）</AwesomeInventory_GlobalOutfitSettingWarning>
+    <AwesomeInventory_ImportLoadout>从另一个物品组合中导入</AwesomeInventory_ImportLoadout>
+    <AwesomeInventory_LoadoutName>{0}的物品组合</AwesomeInventory_LoadoutName>
     <AwesomeInventory_MouseOverNumbersForDetails>移动鼠标到数值以查看细节</AwesomeInventory_MouseOverNumbersForDetails>
-    <AwesomeInventory_NewLoadout>新装备组合</AwesomeInventory_NewLoadout>
-    <AwesomeInventory_NoLoadout>没有装备组合</AwesomeInventory_NoLoadout>
-    <AwesomeInventory_NoLoadoutSelected>没有选择的装备组合</AwesomeInventory_NoLoadoutSelected>
+    <AwesomeInventory_NewLoadout>新物品组合</AwesomeInventory_NewLoadout>
+    <AwesomeInventory_NoLoadout>没有物品组合</AwesomeInventory_NoLoadout>
+    <AwesomeInventory_NoLoadoutSelected>没有选择的物品组合</AwesomeInventory_NoLoadoutSelected>
     <AwesomeInventory_NoMaterial>没有可用的材料</AwesomeInventory_NoMaterial>
-    <AwesomeInventory_OpenLoadout>打开装备组合</AwesomeInventory_OpenLoadout>
+    <AwesomeInventory_OpenLoadout>打开物品组合</AwesomeInventory_OpenLoadout>
     <AwesomeInventory_PreviewQuality>预览品质: </AwesomeInventory_PreviewQuality>
-    <AwesomeInventory_SelectLoadout>选择装备组合</AwesomeInventory_SelectLoadout>
+    <AwesomeInventory_RestockAlways>缺少物品时立即补货</AwesomeInventory_RestockAlways>
+    <AwesomeInventory_RestockBottomThreshold>当物品降低到多少时去补货:</AwesomeInventory_RestockBottomThreshold>
+
+    <AwesomeInventory_RightClickForMoreOptions>右键打开更多设置</AwesomeInventory_RightClickForMoreOptions>
+    <AwesomeInventory_SelectLoadout>选择物品组合</AwesomeInventory_SelectLoadout>
+    <AwesomeInventory_SortListAlphabetically>首字母排序</AwesomeInventory_SortListAlphabetically>
     <AwesomeInventory_SourceAllTip>所有物品</AwesomeInventory_SourceAllTip>
     <AwesomeInventory_SourceApparelTip>衣物</AwesomeInventory_SourceApparelTip>
     <AwesomeInventory_SourceFilterTip>过滤器</AwesomeInventory_SourceFilterTip>
-    <AwesomeInventory_SourceGenericTip>各类物品</AwesomeInventory_SourceGenericTip>
+    <AwesomeInventory_SourceGenericTip>通用物品</AwesomeInventory_SourceGenericTip>
     <AwesomeInventory_SourceMeleeTip>近战武器</AwesomeInventory_SourceMeleeTip>
-    <AwesomeInventory_SourceMinifiedTip>卸除的物品</AwesomeInventory_SourceMinifiedTip>
-    <AwesomeInventory_SourceRangedTip>远距离武器</AwesomeInventory_SourceRangedTip>
+    <AwesomeInventory_SourceMinifiedTip>家具</AwesomeInventory_SourceMinifiedTip>
+    <AwesomeInventory_SourceRangedTip>远程武器</AwesomeInventory_SourceRangedTip>
     <AwesomeInventory_Separate>分离</AwesomeInventory_Separate>
+    <AwesomeInventory_StockMode>补货模式</AwesomeInventory_StockMode>
     <AwesomeInventory_SelectorStuff>选择的材料</AwesomeInventory_SelectorStuff>
     <AwesomeInventory_StuffSource>材料来源</AwesomeInventory_StuffSource>
-    <AwesomeInventory_TryToDeleteLastLoadout>不能删除最后一个装备组合</AwesomeInventory_TryToDeleteLastLoadout>
+    <AwesomeInventory_TryToDeleteLastLoadout>不能删除最后一个物品组合</AwesomeInventory_TryToDeleteLastLoadout>
+    <AwesomeInventory_UseGenericStuff>将物品栏中的材质替换为任何材质</AwesomeInventory_UseGenericStuff>
     <AwesomeInventory_Weight>重量</AwesomeInventory_Weight>
     <AwesomeInventory_Wishlist>愿望清单</AwesomeInventory_Wishlist>
-
+	     <!-- Combat Extended -->
+        <AwesomeInventory_SelectedWeapon>选择武器: </AwesomeInventory_SelectedWeapon>
+        <AwesomeInventory_SelectedAmmo>选择弹药: </AwesomeInventory_SelectedAmmo>
+	
+    <!-- Costume Window -->
+    <AwesomeInventory_CreateCostume>新建服装组合</AwesomeInventory_CreateCostume>
+    <AwesomeInventory_CopyCostume>复制服装组合</AwesomeInventory_CopyCostume>
+    <AwesomeInventory_CopySuffix> - 复制</AwesomeInventory_CopySuffix>
+    <AwesomeInventory_Costume> 服装组合</AwesomeInventory_Costume>
+    <AwesomeInventory_DeleteCostume>删除服装组合</AwesomeInventory_DeleteCostume>
+    <AwesomeInventory_ItemsInCostume>选中的服装</AwesomeInventory_ItemsInCostume>
+    <AwesomeInventory_ApparelsInLoadout>物品组合中的服装</AwesomeInventory_ApparelsInLoadout>
+    <AwesomeInventory_NoCostumeAvailable>无可用服装组合</AwesomeInventory_NoCostumeAvailable>
+    <AwesomeInventory_NoCostumeSelected>请选择一个服装组合</AwesomeInventory_NoCostumeSelected>
+    <AwesomeInventory_SelectCostume>选择服装组合</AwesomeInventory_SelectCostume>
+	
+    <!-- Overview Window -->
+    <AwesomeInventory_EquippedItems>装备的物品</AwesomeInventory_EquippedItems>
+    <AwesomeInventory_InventoryItems>物品栏中的物品</AwesomeInventory_InventoryItems>
+    <AwesomeInventory_InventoryView>物品栏界面</AwesomeInventory_InventoryView>
+    <AwesomeInventory_Loadouts>物品组合</AwesomeInventory_Loadouts>
+    <AwesomeInventory_LoadoutTabTip1>Ctrl+拖动来在物品组合之间复制物品</AwesomeInventory_LoadoutTabTip1>
+    <AwesomeInventory_LoadoutTabTip2>右键来将物品从物品组合中删除</AwesomeInventory_LoadoutTabTip2>
+    <AwesomeInventory_LoadoutView>物品组合界面</AwesomeInventory_LoadoutView>
+    <AwesomeInventory_MakeLoadout>制作物品组合</AwesomeInventory_MakeLoadout>
+    <AwesomeInventory_MakeLoadoutFrom>用正在物品栏中的物品创造物品组合</AwesomeInventory_MakeLoadoutFrom>
+    <AwesomeInventory_MissingItems>缺少的物品</AwesomeInventory_MissingItems>
+	
+    <!-- Stat Panel -->
+    <AwesomeInventory_StatPanel>状态监控面板</AwesomeInventory_StatPanel>
+    <AwesomeInventory_AddRemoveStat>增添\删除状态</AwesomeInventory_AddRemoveStat>
+	
     <!-- Labels -->
     <AwesomeInventory_GenericMeal_Label>各类餐点</AwesomeInventory_GenericMeal_Label>
     <AwesomeInventory_AIGenericRawFood_Label>各类生食</AwesomeInventory_AIGenericRawFood_Label>
     <AwesomeInventory_AIGenericDrugs_Label>各类药物</AwesomeInventory_AIGenericDrugs_Label>
     <AwesomeInventory_AIGenericMedicine_Label>各类药品</AwesomeInventory_AIGenericMedicine_Label>
+    <AwesomeInventory_AIGenericMeatRaw_Label>各类生肉</AwesomeInventory_AIGenericMeatRaw_Label>
 
     <!-- Descriptions -->
     <AwesomeInventory_AIGenericMeal_Description>代表会腐烂的餐点。为了兼容小人自动捡起的餐点而设，重量与精致餐点相同</AwesomeInventory_AIGenericMeal_Description>
     <AwesomeInventory_AIGenericRawFood_Description>代表生食。为了兼容小人为训练动物所自动捡起的生食而设</AwesomeInventory_AIGenericRawFood_Description>
     <AwesomeInventory_AIGenericDrugs_Description>代表所有药物。包含医疗药物，重量与薄片相同</AwesomeInventory_AIGenericDrugs_Description>
     <AwesomeInventory_AIGenericMedicine_Description>代表所有药品。医生治疗所使用的药品</AwesomeInventory_AIGenericMedicine_Description>
+    <AwesomeInventory_AIGenericMeatRaw_Description>代表所有生肉。动物训练师需要的口粮</AwesomeInventory_AIGenericMeatRaw_Description>
+	
+	
+    <!-- Gizmo -->
+    <AwesomeInventory_Consume>服装组合{0}</AwesomeInventory_Consume>
+    <AwesomeInventory_ClearDrugSelection>清除选择的药物</AwesomeInventory_ClearDrugSelection>
+    <AwesomeInventory_CurrentHotSwapCostume>当前快速换装组合: {0}</AwesomeInventory_CurrentHotSwapCostume>
+    <AwesomeInventory_HotSwapInterrupted>快速换装被打断了</AwesomeInventory_HotSwapInterrupted>
+    <AwesomeInventory_NotCapaleChangingApparel>{0}没有能力更换装备 </AwesomeInventory_NotCapaleChangingApparel>
+    <AwesomeInventory_NoCostumeForHotSwap>没有可用的服装组合，选择一个设定好服装组合的殖民者</AwesomeInventory_NoCostumeForHotSwap>
+    <AwesomeInventory_NoDrugSelected>没有选中药物</AwesomeInventory_NoDrugSelected>
+    <AwesomeInventory_ForceHotSwap>强制快速换装</AwesomeInventory_ForceHotSwap>
+    <AwesomeInventory_SameCostumeForHotSwap>当前装备与快速换装一样</AwesomeInventory_SameCostumeForHotSwap>
     
+	
     <!-- Mod settings -->
     <AwesomeInventory_AutoEquipWeapon>自动装备武器</AwesomeInventory_AutoEquipWeapon>
-    <AwesomeInventory_UseGearTabToggle>启用装备栏按钮</AwesomeInventory_UseGearTabToggle>
-    <AwesomeInventory_UseLoadout>启用装备组合</AwesomeInventory_UseLoadout>
+    <AwesomeInventory_ChooseThemeColorForQuality>选择品质颜色主题:</AwesomeInventory_ChooseThemeColorForQuality>
+    <AwesomeInventory_DisableWindowInModSetting>在MOD设置界面显示此窗口</AwesomeInventory_DisableWindowInModSetting>
+    <AwesomeInventory_ExplainFeatures>物品组合/服装组合的解释</AwesomeInventory_ExplainFeatures>
+    <AwesomeInventory_GearTabHeight>装备栏高度:</AwesomeInventory_GearTabHeight>
+    <AwesomeInventory_GearTabWidht>装备栏宽度:</AwesomeInventory_GearTabWidht>
+    <AwesomeInventory_GoNuts>别乱动！窗口大小设置</AwesomeInventory_GoNuts>
+    <AwesomeInventory_OpenLoadoutFromContextMenu>启用弹窗</AwesomeInventory_OpenLoadoutFromContextMenu>
+    <AwesomeInventory_PatchAllRaces>全种族补丁</AwesomeInventory_PatchAllRaces>
+    <AwesomeInventory_TipsOnCostume>如何使用服装组合</AwesomeInventory_TipsOnCostume>
+    <AwesomeInventory_TipsForHotSwap>如何快速换装</AwesomeInventory_TipsForHotSwap>
     <AwesomeInventory_ToggleGearTab>装备栏</AwesomeInventory_ToggleGearTab>
-
+    <AwesomeInventory_UseGearTabToggle>启用装备栏按钮</AwesomeInventory_UseGearTabToggle>
+    <AwesomeInventory_UseHotSwap>启用快速换装按钮</AwesomeInventory_UseHotSwap>
+    <AwesomeInventory_UseLoadout>启用物品组合</AwesomeInventory_UseLoadout>
+    <AwesomeInventory_ShowRestartButton>显示重启按钮</AwesomeInventory_ShowRestartButton>
+    <AwesomeInventory_UseTakeDrug>启用快速服药按钮</AwesomeInventory_UseTakeDrug>
+	
     <!-- Option texts on context menu -->
+    <AwesomeInventory_AddToLoadout>添加到 {0}</AwesomeInventory_AddToLoadout>
     <AwesomeInventory_Default>默认</AwesomeInventory_Default>
-    <AwesomeInventory_Equip>装备 {0} 并保留退役的</AwesomeInventory_Equip>
-    <AwesomeInventory_ForceWear>强制穿上 {0} 并保留原本的</AwesomeInventory_ForceWear>
+    <AwesomeInventory_Equip>装备 {0} 并保留换下的</AwesomeInventory_Equip>
+    <AwesomeInventory_ForceWear>强制穿上 {0} 并保留换下的</AwesomeInventory_ForceWear>
     <AwesomeInventory_Pickup>捡起 {0}</AwesomeInventory_Pickup>
-    <AwesomeInventory_PutAway>脱下 {0}</AwesomeInventory_PutAway>
-    <AwesomeInventory_Wear>穿上 {0} 并保留原本的</AwesomeInventory_Wear>
+    <AwesomeInventory_PutAway>放进物品栏 {0}</AwesomeInventory_PutAway>
+    <AwesomeInventory_RemoveFromLoadout>从服装组合移除 {0}</AwesomeInventory_RemoveFromLoadout>
+    <AwesomeInventory_Wear>穿上 {0} 并保留换下的</AwesomeInventory_Wear>
     <AwesomeInventory_VanillaWear>穿上 {0}</AwesomeInventory_VanillaWear>
 
     <!-- Tooltips -->
     <AwesomeInventory_Ascetic>苦行主义</AwesomeInventory_Ascetic>
     <AwesomeInventory_AutoEquipWeaponTooltip>允许本mod自动装备没有武器的小人</AwesomeInventory_AutoEquipWeaponTooltip>
-    <AwesomeInventory_BlacklistTooltip>小人不会拿黑名单里的东西。黑名单不会影响不符合愿望清单的东西</AwesomeInventory_BlacklistTooltip>
+    <AwesomeInventory_BlacklistTooltip>小人不会拿黑名单里的东西。黑名单不会影响在愿望清单里的东西</AwesomeInventory_BlacklistTooltip>
     <AwesomeInventory_CurrentTemperature>目前温度</AwesomeInventory_CurrentTemperature>
-    <AwesomeInventory_PreviewQuality_Tooltip>选择预览物品的品质</AwesomeInventory_PreviewQuality_Tooltip>
-    <AwesomeInventory_Separate_Tooltip>单独为每个选择的物品设定品质和耐久度</AwesomeInventory_Separate_Tooltip>
+    <AwesomeInventory_OpenLoadoutFromContextMenuTooltip> 当你在地图上装备或穿上物品时弹出物品栏</AwesomeInventory_OpenLoadoutFromContextMenuTooltip>
+    <AwesomeInventory_PatchAllRacesTooltip>使用本MOD为所有种族进行物品栏兼容性补丁</AwesomeInventory_PatchAllRacesTooltip>
+    <AwesomeInventory_PreviewQuality_Tooltip>选择预览物品的品质 </AwesomeInventory_PreviewQuality_Tooltip>
+    <AwesomeInventory_Tips>小贴士: {0}</AwesomeInventory_Tips>
+    <AwesomeInventory_Separate_Tooltip>单独为每个选择的材质设定物品品质和耐久度</AwesomeInventory_Separate_Tooltip>
+    <AwesomeInventory_ShowRestartButtonTooltip>在开发者模式中显示重启按钮</AwesomeInventory_ShowRestartButtonTooltip>
     <AwesomeInventory_UseGearTabToggleTooltip>装备栏按钮允许你为开启装备栏设定热键</AwesomeInventory_UseGearTabToggleTooltip>
-    <AwesomeInventory_UseLoadoutTooltip>使用本mod提供的装备组合</AwesomeInventory_UseLoadoutTooltip>
-    <AwesomeInventory_WishlistTooltip>小人会不断寻找愿望清单里的物品</AwesomeInventory_WishlistTooltip>
+    <AwesomeInventory_UseLoadoutTooltip>使用本mod提供的物品组合系统</AwesomeInventory_UseLoadoutTooltip>
+    <AwesomeInventory_UseTakeDrugTooltip>使用服药按钮来创建一个让殖民者服用物品栏中药物的快捷方式</AwesomeInventory_UseTakeDrugTooltip>
+    <AwesomeInventory_WishlistTooltip>小人会自主寻找愿望清单里的物品</AwesomeInventory_WishlistTooltip>
 
     <!-- Messages -->
-    <AwesomeInventory_FailToDrop>{0} 没有丢下 {1}</AwesomeInventory_FailToDrop>
+    <AwesomeInventory_FailToDrop>{0} 没能丢下 {1}</AwesomeInventory_FailToDrop>
+    <AwesomeInventory_NoDrugInInventory>没有 {0} 在 {1} 的物品栏中</AwesomeInventory_NoDrugInInventory>
+    <AwesomeInventory_ErrorReport>Awesome Inventory 遇到了一个问题，请反馈给作者</AwesomeInventory_ErrorReport>
+
 
 </LanguageData>
